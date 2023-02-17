@@ -2,7 +2,7 @@
 
 We go through a detailed study of traditional Machine Learning algorithms for malaria detection. Attached Report [Report.pdf](https://github.com/hanzalah21027/Malaria-Detection/blob/main/Report.pdf) details the analysis.
 
-The Dataset can be found here [Dataset]().
+The Dataset can be found here [Dataset](https://drive.google.com/file/d/1JrDTSAzIb6QXrUwYYFIYSDsrIdh0i4Rp/view?usp=share_link).
 
 ## Methodology
 
